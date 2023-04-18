@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $user = "root";
-$password = "ilyass2002@-@-";
+$password = "password";
 $dbname = "assignment";
 $dsn = "mysql:host=$servername;dbname=$dbname";
 
